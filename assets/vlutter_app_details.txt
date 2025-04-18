@@ -1,0 +1,5 @@
+Vlutter
+
+This app is a placeholder to demonstrate the Google Play release process.
+
+This app the default degerated new project in Flutter. Its sple purpose is to serve as a placeholder to demonstrate the Google PLay release process.
