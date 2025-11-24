@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.vlutter_app">
+    package="de.biryuk.vlutter_app">
    <application
         android:label="vlutter_app"
         android:name="${applicationName}"
