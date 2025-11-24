@@ -63,7 +63,7 @@ android {
     defaultConfig {
         applicationId "de.biryuk.vlutter_app"
         minSdkVersion 30
-        targetSdkVersion 34
+        targetSdkVersion 35
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
         ndk {
